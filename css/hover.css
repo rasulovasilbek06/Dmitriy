@@ -1,0 +1,188 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.left-container {
+    height: 1784px;
+}
+.right-content-box {
+  width: 900px;
+  height: 1610px;
+  background: #202020;
+  border-radius: 8px;
+  margin-left: 17px;
+}
+.header {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+.podelit {
+  display: flex;
+  justify-content: center;
+}
+.podelit-img {
+  display: flex;
+  margin-left: -25px;
+}
+.header p {
+  width: 95px;
+  height: 14px;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(255, 255, 255, 0.649);
+}
+.podelit-para {
+  color: white;
+  padding: 0 20px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+}
+.right-data {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  padding: 5px 20px;
+}
+.right-data p {
+  color: #828282;
+  font-size: 12px;
+}
+.right-data-img {
+  width: 8px;
+  height: 8px;
+}
+.right-danni {
+  padding: 30px 20px;
+}
+.all {
+  font-weight: 400;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.778);
+}
+.danni2 {
+  margin-top: 40px;
+}
+.right-imgs {
+  width: 860px;
+  height: 350px;
+  display: flex;
+  margin-left: 20px;
+}
+.img-end-p {
+  padding: 25px 20px;
+}
+.img-end-p p {
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 400;
+}
+.none-empty {
+  width: 850px;
+  border: 1px solid rgba(0, 0, 0, 0.284);
+  margin-left: 20px;
+  display: flex;
+  margin-bottom: 30px;
+}
+.interesno {
+  color: rgba(255, 255, 255, 0.823);
+  padding: 30px 20px;
+}
+.one {
+  margin-bottom: 25px;
+}
+.front-box {
+  padding: 0 20px;
+}
+.front-child1 {
+  color: #f3eba2;
+  font-size: 14px;
+}
+.front-child2 {
+  color: rgba(255, 255, 255, 0.76);
+  padding: 5px 0;
+  font-size: 14px;
+  display: flex;
+}
+.three {
+  margin-top: -668px;
+  margin-left: 550px;
+}
+.four {
+  margin-top: -531px;
+  margin-left: 550px;
+  margin-bottom: 30px;
+}
+.commen {
+  padding: 20px;
+}
+.obsuj {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.comment-input {
+  width: 850px;
+  height: 20px;
+  margin-bottom: 12px;
+  border-bottom: 1.5px solid rgba(255, 255, 255, 0.158);
+}
+.comment-input input {
+  border: none;
+  background-color: rgba(255, 255, 255, 0);
+}
+.comm-btn {
+  width: 100px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+
+  background-color: #3137c9;
+}
+
+.comm-btn p {
+  font-size: 12px;
+}
+.otv-comm {
+  margin-top: 110px;
+}
+.person {
+  display: flex;
+}
+.person-name {
+  font-size: 12px;
+  padding: 0 15px;
+}
+.comm-time {
+  color: #757575;
+  font-size: 11px;
+  margin-top: 16px;
+  margin-left: -100px;
+  display: flex;
+}
+.otv-p {
+  font-size: 13px;
+  line-height: 15px;
+  margin-top: 15px;
+  color: rgba(255, 255, 255, 0.713);
+}
+.otv-more {
+    padding: 5px 0px;
+}
+.otv-more a{
+    color: blue;
+    font-size: 12px;
+    text-decoration: none;
+}
+.otv-comm-two {
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.otv-comm-time {
+    margin-left: -60px;
+}
